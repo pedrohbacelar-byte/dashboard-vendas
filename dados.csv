@@ -1,0 +1,501 @@
+Postcode,Sales_Rep_ID,Sales_Rep_Name,Year,Value,Categoria,Produto
+2169,984,John,2024,404.94,Informática,Teclado
+2096,587,Jane,2025,2762.08,Periféricos,Headset
+2064,118,Marcos Silva,2025,1219.66,Móveis,Cadeira
+2047,644,John,2026,8660.22,Informática,Monitor
+2017,469,Jane,2024,5904.5,Periféricos,Headset
+2133,419,Jane,2025,5188.51,Móveis,Estante
+2194,573,Marcos Silva,2023,9531.17,Móveis,Mesa
+2012,536,John,2024,6577.86,Informática,Notebook
+2144,328,Marcos Silva,2024,8380.77,Informática,Mouse
+2051,331,Marcos Silva,2025,2652.75,Periféricos,Headset
+2158,789,John,2024,8597.18,Informática,Monitor
+2000,152,Jane,2024,5997.0,Periféricos,Webcam
+2074,496,Jane,2023,9757.45,Informática,Teclado
+2170,740,Jane,2024,7410.37,Móveis,Cadeira
+2194,781,Pedro Bacelar,2024,5586.86,Periféricos,Cabo HDMI
+2037,125,Jane,2025,1888.44,Informática,Notebook
+2009,526,Ana Souza,2024,220.25,Móveis,Mesa
+2083,715,John,2026,844.72,Móveis,Estante
+2147,230,Pedro Bacelar,2023,429.7,Periféricos,Webcam
+2018,516,John,2025,2663.26,Periféricos,Webcam
+2134,144,Ashish,2024,1076.58,Informática,Notebook
+2109,274,Marcos Silva,2026,1429.98,Móveis,Cadeira
+2109,359,John,2024,3582.21,Informática,Notebook
+2143,305,Ana Souza,2023,6734.79,Periféricos,Cabo HDMI
+2200,704,Ashish,2025,4345.8,Periféricos,Headset
+2172,964,Ana Souza,2025,9036.88,Móveis,Estante
+2167,640,Ashish,2026,2895.84,Móveis,Cadeira
+2055,908,John,2026,1820.82,Informática,Mouse
+2055,241,Marcos Silva,2024,2018.23,Informática,Monitor
+2181,132,Ashish,2023,2391.07,Informática,Notebook
+2012,813,Ashish,2026,1393.21,Móveis,Estante
+2072,660,Marcos Silva,2024,9209.09,Móveis,Estante
+2054,609,Jane,2025,9681.68,Móveis,Cadeira
+2050,480,Jane,2025,6184.1,Móveis,Cadeira
+2112,921,John,2024,105.04,Periféricos,Headset
+2006,364,Marcos Silva,2026,6886.62,Móveis,Cadeira
+2109,182,Marcos Silva,2023,8198.25,Móveis,Cadeira
+2002,380,Ana Souza,2025,6512.32,Informática,Monitor
+2167,638,Marcos Silva,2024,4932.15,Móveis,Cadeira
+2135,830,John,2025,9848.17,Periféricos,Cabo HDMI
+2170,702,John,2024,7097.4,Informática,Monitor
+2131,815,Pedro Bacelar,2025,7914.35,Informática,Teclado
+2015,640,Ashish,2024,4036.97,Periféricos,Headset
+2150,464,Ashish,2026,7812.99,Móveis,Mesa
+2070,613,Ana Souza,2023,2783.21,Móveis,Estante
+2057,152,John,2025,7950.92,Periféricos,Headset
+2068,970,John,2026,3351.31,Móveis,Estante
+2066,990,Ashish,2025,1586.23,Informática,Monitor
+2195,696,Jane,2026,6687.59,Periféricos,Headset
+2026,523,Ashish,2024,7590.45,Móveis,Estante
+2008,859,Pedro Bacelar,2026,1291.5,Informática,Monitor
+2115,916,Pedro Bacelar,2023,2464.48,Informática,Mouse
+2020,869,Ana Souza,2023,4981.33,Informática,Mouse
+2144,615,John,2024,4552.01,Periféricos,Headset
+2197,540,Jane,2023,2857.26,Móveis,Cadeira
+2009,836,Ana Souza,2023,1669.21,Periféricos,Cabo HDMI
+2165,614,Marcos Silva,2025,4982.09,Periféricos,Webcam
+2024,967,Marcos Silva,2023,2928.02,Periféricos,Webcam
+2193,693,Jane,2024,3769.16,Informática,Monitor
+2097,373,Pedro Bacelar,2023,8551.4,Móveis,Estante
+2110,200,John,2026,387.77,Móveis,Estante
+2083,989,Jane,2024,5056.91,Informática,Teclado
+2024,991,John,2023,3301.74,Informática,Teclado
+2159,356,Pedro Bacelar,2024,5839.86,Informática,Mouse
+2192,198,Ashish,2025,9976.47,Periféricos,Cabo HDMI
+2102,814,Ana Souza,2026,5768.86,Periféricos,Webcam
+2010,998,Pedro Bacelar,2023,7980.58,Móveis,Mesa
+2115,582,Ana Souza,2026,4323.95,Móveis,Mesa
+2097,145,Ana Souza,2025,6231.14,Periféricos,Cabo HDMI
+2013,275,John,2024,6723.27,Periféricos,Cabo HDMI
+2162,926,Marcos Silva,2024,6915.14,Móveis,Cadeira
+2036,211,Pedro Bacelar,2023,752.31,Periféricos,Webcam
+2172,192,Ashish,2025,9848.22,Periféricos,Headset
+2018,845,Ana Souza,2026,9401.38,Móveis,Cadeira
+2162,654,Ana Souza,2025,5376.05,Móveis,Mesa
+2126,399,Marcos Silva,2026,4259.74,Informática,Notebook
+2107,143,Pedro Bacelar,2026,2002.32,Informática,Monitor
+2127,370,John,2023,6372.21,Informática,Mouse
+2055,353,Pedro Bacelar,2026,9983.39,Informática,Mouse
+2132,255,Ana Souza,2026,6319.4,Periféricos,Headset
+2095,262,Pedro Bacelar,2025,2629.62,Móveis,Estante
+2084,486,John,2023,3430.64,Móveis,Cadeira
+2007,583,Ashish,2026,4652.82,Móveis,Estante
+2149,556,Ana Souza,2025,2692.94,Periféricos,Cabo HDMI
+2133,306,Ashish,2026,9715.34,Periféricos,Webcam
+2155,199,Ashish,2025,4151.77,Informática,Monitor
+2064,622,Marcos Silva,2025,9947.03,Móveis,Estante
+2005,532,Marcos Silva,2025,264.92,Periféricos,Webcam
+2132,746,John,2024,5103.6,Móveis,Estante
+2174,866,Ana Souza,2026,1936.21,Móveis,Cadeira
+2098,894,John,2024,1980.0,Periféricos,Webcam
+2090,470,Ana Souza,2026,3118.58,Informática,Monitor
+2100,103,Jane,2026,5073.84,Móveis,Estante
+2181,747,Ashish,2024,7413.79,Informática,Notebook
+2080,814,Jane,2023,6904.57,Móveis,Cadeira
+2107,146,Ana Souza,2026,8503.98,Periféricos,Cabo HDMI
+2100,933,Marcos Silva,2025,5929.8,Móveis,Cadeira
+2111,494,Jane,2025,3070.03,Periféricos,Cabo HDMI
+2166,445,Ashish,2025,3342.96,Informática,Mouse
+2078,901,John,2023,2776.17,Informática,Teclado
+2051,671,Ashish,2023,4498.36,Periféricos,Webcam
+2139,184,Jane,2025,3314.28,Móveis,Cadeira
+2060,668,John,2024,9329.3,Informática,Teclado
+2040,327,Ana Souza,2024,2036.25,Informática,Monitor
+2106,808,Ashish,2024,4544.0,Móveis,Mesa
+2067,503,Jane,2025,4317.5,Informática,Mouse
+2023,901,Marcos Silva,2023,378.6,Periféricos,Cabo HDMI
+2001,114,Pedro Bacelar,2026,6094.83,Informática,Mouse
+2022,928,Ana Souza,2024,3768.31,Informática,Monitor
+2064,603,Pedro Bacelar,2025,357.02,Móveis,Cadeira
+2190,987,Ashish,2026,627.53,Informática,Notebook
+2025,673,Ana Souza,2023,4522.78,Periféricos,Cabo HDMI
+2046,856,Ana Souza,2026,2609.9,Periféricos,Webcam
+2099,587,Ashish,2025,9734.58,Informática,Mouse
+2058,371,Marcos Silva,2025,3825.92,Periféricos,Cabo HDMI
+2034,489,Ana Souza,2025,8305.21,Informática,Teclado
+2168,213,Marcos Silva,2024,6041.21,Periféricos,Headset
+2179,190,Ana Souza,2026,6525.67,Periféricos,Cabo HDMI
+2012,591,Jane,2024,3246.53,Informática,Mouse
+2042,747,Marcos Silva,2026,6308.23,Móveis,Estante
+2139,173,Pedro Bacelar,2025,8264.15,Informática,Monitor
+2194,135,Ashish,2026,3801.34,Periféricos,Cabo HDMI
+2088,396,John,2026,2150.87,Informática,Mouse
+2088,972,John,2024,3579.61,Móveis,Mesa
+2048,845,John,2024,4412.55,Informática,Teclado
+2165,740,Ashish,2025,5379.29,Informática,Notebook
+2122,804,Ana Souza,2026,2686.53,Informática,Mouse
+2038,361,John,2024,3577.2,Informática,Mouse
+2122,420,Ana Souza,2025,1725.97,Periféricos,Webcam
+2036,842,John,2024,1211.67,Informática,Mouse
+2001,764,Jane,2025,7369.39,Informática,Monitor
+2136,586,Ana Souza,2026,1795.05,Periféricos,Headset
+2190,229,Ashish,2023,4331.74,Informática,Notebook
+2135,252,Ashish,2025,8491.67,Periféricos,Cabo HDMI
+2036,953,Ana Souza,2023,2980.28,Periféricos,Webcam
+2171,845,Ana Souza,2024,8666.28,Informática,Mouse
+2063,817,Marcos Silva,2024,8251.18,Móveis,Cadeira
+2089,374,Jane,2026,7928.3,Informática,Mouse
+2085,628,Ana Souza,2026,2276.59,Móveis,Mesa
+2073,293,Pedro Bacelar,2023,8420.28,Periféricos,Cabo HDMI
+2126,687,John,2023,790.96,Informática,Teclado
+2127,766,Jane,2024,4792.97,Informática,Monitor
+2171,570,Pedro Bacelar,2024,7103.3,Periféricos,Headset
+2017,659,Ana Souza,2025,796.01,Periféricos,Headset
+2070,254,Pedro Bacelar,2026,6318.58,Periféricos,Headset
+2186,370,John,2025,5941.99,Periféricos,Webcam
+2058,394,Ashish,2026,5660.67,Periféricos,Headset
+2020,396,John,2024,3689.51,Móveis,Mesa
+2137,608,John,2023,7849.99,Periféricos,Webcam
+2086,630,John,2026,2366.12,Periféricos,Cabo HDMI
+2040,824,Ana Souza,2024,1555.75,Periféricos,Webcam
+2051,180,Jane,2026,1545.28,Móveis,Cadeira
+2027,551,Ashish,2024,2622.04,Periféricos,Cabo HDMI
+2039,797,Pedro Bacelar,2023,5367.05,Periféricos,Cabo HDMI
+2187,492,Ashish,2025,3011.94,Informática,Monitor
+2035,506,Ana Souza,2024,7433.95,Móveis,Cadeira
+2020,716,Ana Souza,2023,1399.09,Informática,Notebook
+2176,485,Ana Souza,2023,6755.51,Móveis,Mesa
+2043,912,Ana Souza,2025,2096.64,Informática,Monitor
+2030,639,Ashish,2024,5563.06,Periféricos,Cabo HDMI
+2168,698,Ana Souza,2025,1292.29,Móveis,Estante
+2101,859,John,2024,6747.12,Periféricos,Headset
+2161,559,Ashish,2024,2846.72,Periféricos,Cabo HDMI
+2140,857,John,2026,6849.94,Móveis,Cadeira
+2150,806,Pedro Bacelar,2025,5943.94,Periféricos,Webcam
+2134,245,Marcos Silva,2025,5874.82,Informática,Teclado
+2004,127,Jane,2024,3841.8,Periféricos,Webcam
+2100,992,Jane,2024,7356.41,Informática,Mouse
+2064,178,Ana Souza,2025,4918.28,Móveis,Estante
+2021,923,John,2026,8571.98,Móveis,Cadeira
+2015,800,Jane,2026,8578.98,Móveis,Estante
+2110,195,Ashish,2023,2230.18,Informática,Mouse
+2013,445,Jane,2023,9581.65,Informática,Mouse
+2152,377,Ashish,2024,7427.63,Móveis,Estante
+2170,222,Marcos Silva,2023,9683.84,Móveis,Estante
+2095,564,Ashish,2024,6055.48,Periféricos,Cabo HDMI
+2020,316,Pedro Bacelar,2023,4565.35,Periféricos,Cabo HDMI
+2023,630,Jane,2023,5264.54,Móveis,Cadeira
+2003,535,Jane,2025,2572.59,Informática,Notebook
+2159,120,Jane,2025,5261.46,Móveis,Mesa
+2099,412,Ana Souza,2025,7930.65,Móveis,Mesa
+2128,550,John,2025,7746.54,Móveis,Cadeira
+2028,672,John,2026,1446.77,Móveis,Mesa
+2081,279,Jane,2024,5766.17,Móveis,Cadeira
+2130,484,Ashish,2023,3083.5,Móveis,Mesa
+2056,403,Pedro Bacelar,2026,3909.97,Móveis,Cadeira
+2160,540,Ana Souza,2025,8898.93,Periféricos,Webcam
+2085,212,Pedro Bacelar,2025,6205.32,Móveis,Cadeira
+2152,812,Pedro Bacelar,2025,6136.95,Periféricos,Headset
+2174,968,Ashish,2024,8263.53,Móveis,Estante
+2146,661,John,2025,2410.31,Informática,Mouse
+2084,239,Marcos Silva,2026,410.34,Informática,Monitor
+2124,269,John,2026,3455.65,Periféricos,Headset
+2021,778,Pedro Bacelar,2023,7809.68,Informática,Notebook
+2001,234,Ashish,2023,8929.72,Informática,Mouse
+2148,335,Marcos Silva,2025,443.41,Periféricos,Webcam
+2136,511,Marcos Silva,2023,1263.19,Periféricos,Webcam
+2094,414,John,2025,5833.69,Informática,Monitor
+2143,247,John,2025,7210.06,Periféricos,Webcam
+2033,435,John,2023,8439.78,Móveis,Mesa
+2176,333,Marcos Silva,2023,7981.17,Informática,Monitor
+2191,461,Ana Souza,2024,7643.12,Periféricos,Webcam
+2018,296,Ana Souza,2023,9996.09,Periféricos,Headset
+2000,361,Jane,2025,6739.44,Móveis,Mesa
+2001,831,Pedro Bacelar,2024,3918.84,Móveis,Estante
+2044,556,Pedro Bacelar,2026,1179.51,Informática,Notebook
+2111,247,Pedro Bacelar,2026,5388.55,Informática,Notebook
+2004,663,Ana Souza,2024,6576.09,Informática,Teclado
+2079,939,John,2024,5115.78,Informática,Teclado
+2085,685,Pedro Bacelar,2025,3235.19,Informática,Teclado
+2171,380,Jane,2025,1473.71,Periféricos,Cabo HDMI
+2183,402,Ashish,2023,649.74,Móveis,Estante
+2060,796,Pedro Bacelar,2025,1035.64,Informática,Teclado
+2008,628,Jane,2025,7870.09,Móveis,Cadeira
+2140,179,Pedro Bacelar,2024,3457.86,Periféricos,Cabo HDMI
+2196,162,Pedro Bacelar,2024,6514.27,Móveis,Cadeira
+2168,313,John,2026,2544.24,Periféricos,Headset
+2117,381,Marcos Silva,2026,3515.63,Informática,Mouse
+2185,705,Ashish,2026,5257.45,Periféricos,Cabo HDMI
+2026,702,Pedro Bacelar,2023,5181.86,Móveis,Estante
+2075,570,John,2024,9106.0,Periféricos,Cabo HDMI
+2043,509,Ashish,2023,7512.58,Periféricos,Cabo HDMI
+2200,238,John,2024,8596.01,Informática,Monitor
+2081,932,Ana Souza,2026,3255.66,Informática,Mouse
+2058,913,John,2024,8453.4,Periféricos,Cabo HDMI
+2124,666,John,2026,2714.99,Periféricos,Webcam
+2043,729,Pedro Bacelar,2025,9339.6,Móveis,Cadeira
+2139,804,Ana Souza,2025,8648.64,Informática,Notebook
+2024,203,Pedro Bacelar,2025,8215.01,Móveis,Cadeira
+2010,783,Ashish,2024,813.09,Móveis,Cadeira
+2192,981,Ana Souza,2026,7560.25,Periféricos,Webcam
+2029,102,Jane,2023,5813.64,Periféricos,Webcam
+2173,451,Ana Souza,2023,832.74,Informática,Teclado
+2093,892,John,2026,6052.7,Periféricos,Headset
+2041,996,Jane,2023,4264.95,Móveis,Cadeira
+2169,929,Pedro Bacelar,2025,3823.76,Móveis,Estante
+2167,812,John,2025,3227.99,Periféricos,Webcam
+2010,764,John,2026,4170.23,Periféricos,Cabo HDMI
+2008,875,Ana Souza,2024,7964.1,Informática,Notebook
+2042,565,Ana Souza,2023,9881.94,Periféricos,Webcam
+2160,855,Pedro Bacelar,2026,7926.0,Informática,Mouse
+2064,173,Marcos Silva,2026,7751.5,Móveis,Cadeira
+2097,490,John,2026,954.62,Informática,Monitor
+2193,993,John,2026,4516.1,Móveis,Cadeira
+2016,227,Jane,2026,724.86,Informática,Monitor
+2153,631,Jane,2026,4865.99,Informática,Notebook
+2200,692,John,2023,161.07,Periféricos,Webcam
+2069,194,Jane,2025,3338.75,Periféricos,Headset
+2003,675,John,2024,9856.54,Periféricos,Webcam
+2096,892,Ashish,2024,1814.07,Móveis,Cadeira
+2103,246,Ana Souza,2026,2595.49,Periféricos,Cabo HDMI
+2185,646,Jane,2023,7372.1,Móveis,Cadeira
+2152,755,Ashish,2024,7238.18,Móveis,Estante
+2193,555,John,2025,661.71,Periféricos,Headset
+2159,598,Pedro Bacelar,2026,1152.86,Móveis,Estante
+2143,532,John,2026,2195.28,Móveis,Estante
+2076,291,Ashish,2024,5518.85,Periféricos,Webcam
+2067,832,Jane,2026,2220.23,Móveis,Cadeira
+2121,992,Jane,2023,8717.55,Informática,Notebook
+2001,974,John,2026,5851.37,Informática,Mouse
+2027,821,Jane,2026,5015.2,Periféricos,Headset
+2161,896,Pedro Bacelar,2025,6407.59,Móveis,Cadeira
+2186,487,Ashish,2025,6662.58,Periféricos,Cabo HDMI
+2124,510,Jane,2026,7712.72,Periféricos,Headset
+2125,240,Ana Souza,2023,8501.97,Periféricos,Webcam
+2182,782,Ana Souza,2025,5261.13,Informática,Teclado
+2065,431,John,2025,432.57,Periféricos,Webcam
+2007,888,Jane,2025,6143.01,Informática,Notebook
+2066,793,Pedro Bacelar,2024,3797.27,Informática,Teclado
+2052,200,Pedro Bacelar,2025,952.66,Periféricos,Headset
+2101,273,Ana Souza,2026,7688.43,Periféricos,Cabo HDMI
+2191,115,Pedro Bacelar,2023,9189.91,Móveis,Mesa
+2073,404,Jane,2026,9364.93,Periféricos,Headset
+2081,728,Ana Souza,2024,7291.61,Informática,Monitor
+2123,314,Marcos Silva,2025,5304.19,Móveis,Estante
+2161,571,Jane,2024,1333.84,Informática,Notebook
+2160,330,Ana Souza,2026,1424.68,Móveis,Estante
+2126,722,Marcos Silva,2024,1047.83,Informática,Notebook
+2192,588,John,2025,6292.98,Periféricos,Webcam
+2176,743,Jane,2023,1299.74,Informática,Monitor
+2092,573,Jane,2024,2995.21,Informática,Monitor
+2077,952,Pedro Bacelar,2023,4320.65,Informática,Notebook
+2082,361,Marcos Silva,2023,915.12,Móveis,Estante
+2144,797,Marcos Silva,2024,6049.06,Periféricos,Webcam
+2004,986,Marcos Silva,2024,2360.14,Periféricos,Headset
+2198,822,Marcos Silva,2026,8649.74,Periféricos,Cabo HDMI
+2024,726,Ashish,2026,1024.99,Móveis,Mesa
+2000,101,Ana Souza,2026,5553.24,Móveis,Mesa
+2198,116,Jane,2023,9196.3,Periféricos,Headset
+2050,657,Marcos Silva,2023,5878.25,Periféricos,Webcam
+2022,935,John,2024,6053.07,Periféricos,Cabo HDMI
+2065,853,Jane,2025,4058.05,Informática,Notebook
+2028,596,Ashish,2024,7984.0,Periféricos,Headset
+2086,762,Pedro Bacelar,2026,9109.35,Móveis,Mesa
+2047,779,Ana Souza,2026,8370.95,Informática,Teclado
+2049,525,Marcos Silva,2024,8421.46,Informática,Notebook
+2093,943,Pedro Bacelar,2025,1781.21,Informática,Teclado
+2079,537,Ana Souza,2023,5528.98,Informática,Teclado
+2171,980,John,2025,7361.09,Móveis,Estante
+2116,638,John,2025,7906.78,Periféricos,Webcam
+2007,528,Marcos Silva,2025,4797.97,Móveis,Estante
+2131,478,Ana Souza,2024,5492.02,Periféricos,Webcam
+2047,209,Ashish,2024,4564.44,Informática,Teclado
+2175,795,Ashish,2025,3004.63,Informática,Notebook
+2021,513,Ashish,2025,2156.14,Móveis,Estante
+2038,938,Ana Souza,2026,2911.47,Informática,Monitor
+2168,996,Jane,2026,6238.82,Periféricos,Webcam
+2129,608,Jane,2025,9068.74,Periféricos,Cabo HDMI
+2146,278,Ana Souza,2026,5235.28,Informática,Notebook
+2047,517,Ana Souza,2024,7259.29,Móveis,Cadeira
+2111,396,Jane,2026,8809.24,Periféricos,Webcam
+2129,835,Pedro Bacelar,2026,4044.06,Informática,Mouse
+2092,623,Jane,2023,6166.01,Informática,Notebook
+2028,114,Marcos Silva,2024,2821.34,Informática,Mouse
+2118,362,Jane,2024,9551.52,Móveis,Estante
+2134,256,Ana Souza,2024,5386.65,Periféricos,Headset
+2018,414,Ana Souza,2026,7046.07,Informática,Mouse
+2157,777,John,2024,253.95,Periféricos,Cabo HDMI
+2012,743,Jane,2025,1337.43,Informática,Teclado
+2159,501,Ana Souza,2023,5466.31,Informática,Teclado
+2135,981,John,2024,8775.47,Móveis,Mesa
+2007,346,Jane,2025,4332.62,Periféricos,Cabo HDMI
+2039,207,Pedro Bacelar,2024,7339.14,Informática,Mouse
+2080,704,Pedro Bacelar,2024,6827.54,Móveis,Mesa
+2126,128,John,2026,5851.17,Periféricos,Webcam
+2013,189,John,2024,4310.21,Informática,Monitor
+2030,281,Ashish,2024,6327.02,Móveis,Estante
+2163,394,John,2024,1733.27,Móveis,Mesa
+2125,687,Jane,2024,3039.2,Periféricos,Headset
+2024,251,John,2023,2153.16,Periféricos,Headset
+2196,719,John,2023,3177.13,Periféricos,Headset
+2160,260,Ashish,2026,9711.95,Periféricos,Webcam
+2192,793,Pedro Bacelar,2024,5992.19,Periféricos,Cabo HDMI
+2032,363,John,2023,9816.48,Informática,Teclado
+2188,118,John,2025,118.11,Informática,Notebook
+2200,462,Marcos Silva,2026,4888.02,Móveis,Cadeira
+2113,520,Marcos Silva,2025,1824.83,Periféricos,Cabo HDMI
+2081,503,Jane,2024,2298.78,Móveis,Cadeira
+2083,344,Ana Souza,2023,7757.35,Móveis,Estante
+2045,742,John,2026,9544.64,Periféricos,Webcam
+2141,142,John,2025,2659.47,Informática,Notebook
+2145,985,Ana Souza,2024,4098.29,Informática,Mouse
+2185,920,Marcos Silva,2025,8255.24,Informática,Mouse
+2034,879,Ashish,2026,1721.79,Periféricos,Webcam
+2104,900,Marcos Silva,2023,1689.83,Móveis,Cadeira
+2141,475,Ana Souza,2024,3617.11,Móveis,Cadeira
+2162,562,Jane,2023,7218.56,Informática,Notebook
+2044,709,Pedro Bacelar,2024,7605.51,Informática,Monitor
+2118,971,Pedro Bacelar,2026,725.43,Móveis,Estante
+2015,353,Pedro Bacelar,2024,7689.44,Periféricos,Webcam
+2195,313,Ashish,2025,3226.19,Informática,Teclado
+2091,539,Ashish,2026,6228.03,Móveis,Mesa
+2183,855,Pedro Bacelar,2024,8756.46,Informática,Notebook
+2071,305,Pedro Bacelar,2024,1756.5,Móveis,Estante
+2001,111,Marcos Silva,2026,4148.33,Móveis,Cadeira
+2112,874,Ana Souza,2024,7055.56,Periféricos,Headset
+2083,356,Jane,2026,9009.1,Periféricos,Cabo HDMI
+2109,292,Ashish,2026,6662.03,Informática,Monitor
+2155,294,Ana Souza,2025,7392.16,Periféricos,Cabo HDMI
+2180,762,John,2026,2811.23,Periféricos,Headset
+2151,411,Ashish,2024,2056.1,Móveis,Estante
+2127,426,Ana Souza,2023,1063.5,Móveis,Mesa
+2010,284,Ana Souza,2024,4530.84,Móveis,Cadeira
+2105,367,Jane,2026,7548.81,Periféricos,Cabo HDMI
+2187,346,Ashish,2026,5471.93,Móveis,Mesa
+2184,985,Pedro Bacelar,2026,1429.43,Periféricos,Cabo HDMI
+2032,146,Pedro Bacelar,2025,9193.66,Móveis,Mesa
+2156,723,Marcos Silva,2023,6187.65,Móveis,Estante
+2141,238,Ana Souza,2023,3359.9,Móveis,Cadeira
+2118,829,Pedro Bacelar,2025,4354.8,Informática,Monitor
+2032,150,Pedro Bacelar,2026,4393.98,Periféricos,Cabo HDMI
+2024,760,John,2026,708.15,Periféricos,Cabo HDMI
+2160,726,Jane,2025,5549.97,Informática,Mouse
+2058,253,Marcos Silva,2026,3402.88,Móveis,Cadeira
+2100,409,Ashish,2024,2080.85,Móveis,Cadeira
+2129,802,Ashish,2023,1472.69,Informática,Monitor
+2169,778,John,2024,9675.42,Periféricos,Headset
+2103,261,John,2026,9836.86,Periféricos,Webcam
+2184,313,Ashish,2026,7975.43,Periféricos,Cabo HDMI
+2119,414,Marcos Silva,2024,7088.37,Informática,Teclado
+2054,167,Ana Souza,2025,1847.95,Periféricos,Cabo HDMI
+2127,231,Ashish,2023,6302.0,Móveis,Estante
+2031,908,Pedro Bacelar,2024,8913.74,Informática,Notebook
+2106,619,Ana Souza,2025,4152.83,Móveis,Cadeira
+2033,105,Ashish,2026,7646.41,Informática,Teclado
+2048,296,Ashish,2026,392.01,Informática,Mouse
+2139,406,John,2026,1542.55,Informática,Teclado
+2078,743,Jane,2023,5703.55,Informática,Monitor
+2054,955,Pedro Bacelar,2025,6790.23,Móveis,Mesa
+2074,527,Marcos Silva,2025,7200.66,Informática,Teclado
+2121,659,Ana Souza,2025,7164.2,Informática,Mouse
+2062,462,Pedro Bacelar,2024,1059.13,Móveis,Estante
+2185,936,Jane,2024,351.99,Periféricos,Headset
+2114,272,Jane,2026,9289.4,Informática,Notebook
+2000,567,Jane,2025,8665.3,Móveis,Mesa
+2092,517,John,2025,7738.18,Periféricos,Headset
+2069,256,Marcos Silva,2026,4323.27,Informática,Notebook
+2093,534,Ashish,2026,7214.79,Informática,Mouse
+2019,734,Jane,2024,6530.46,Periféricos,Cabo HDMI
+2150,249,Jane,2025,8302.56,Móveis,Estante
+2098,550,Ana Souza,2026,7033.42,Móveis,Cadeira
+2068,943,John,2026,4738.78,Periféricos,Cabo HDMI
+2154,236,Pedro Bacelar,2024,3617.65,Periféricos,Headset
+2000,830,Pedro Bacelar,2025,7268.04,Informática,Mouse
+2060,494,John,2023,1181.49,Informática,Notebook
+2141,426,Marcos Silva,2025,5013.89,Periféricos,Headset
+2192,782,Ashish,2025,1648.64,Informática,Notebook
+2136,249,Ashish,2023,7429.27,Móveis,Mesa
+2052,424,Pedro Bacelar,2023,6705.86,Informática,Monitor
+2193,861,Pedro Bacelar,2023,6959.21,Móveis,Mesa
+2039,877,Pedro Bacelar,2023,7621.75,Móveis,Cadeira
+2095,351,Pedro Bacelar,2023,2827.89,Informática,Monitor
+2069,920,Jane,2025,6238.11,Móveis,Mesa
+2024,528,John,2023,5712.89,Móveis,Mesa
+2062,795,Ana Souza,2026,1775.82,Móveis,Estante
+2096,713,Marcos Silva,2023,3603.45,Móveis,Mesa
+2164,300,Pedro Bacelar,2024,1162.21,Informática,Monitor
+2188,478,Pedro Bacelar,2025,2875.37,Informática,Teclado
+2123,502,Jane,2025,495.61,Informática,Notebook
+2087,781,Jane,2024,4153.9,Informática,Monitor
+2014,174,Pedro Bacelar,2025,8239.02,Móveis,Estante
+2096,645,Marcos Silva,2026,4562.53,Móveis,Mesa
+2048,704,Jane,2025,3165.69,Informática,Mouse
+2167,232,Ashish,2026,6826.48,Informática,Notebook
+2000,809,Jane,2023,8817.16,Informática,Notebook
+2010,252,Pedro Bacelar,2025,2645.68,Móveis,Mesa
+2185,949,Jane,2024,4326.0,Informática,Teclado
+2119,744,Pedro Bacelar,2024,6942.68,Informática,Mouse
+2076,580,Ana Souza,2025,5032.38,Periféricos,Cabo HDMI
+2126,309,John,2023,7615.79,Informática,Teclado
+2020,197,Pedro Bacelar,2026,3304.4,Móveis,Estante
+2095,384,Marcos Silva,2025,9822.94,Periféricos,Cabo HDMI
+2000,225,Pedro Bacelar,2024,1248.42,Periféricos,Cabo HDMI
+2066,485,Ashish,2025,2146.03,Informática,Teclado
+2033,950,Pedro Bacelar,2025,5366.63,Periféricos,Cabo HDMI
+2056,950,Ashish,2023,5846.29,Periféricos,Headset
+2127,511,Pedro Bacelar,2023,5272.24,Móveis,Cadeira
+2102,136,Ashish,2025,6051.66,Móveis,Cadeira
+2120,713,Jane,2023,3632.52,Informática,Teclado
+2171,119,John,2023,6616.42,Informática,Teclado
+2058,455,John,2023,6715.64,Periféricos,Webcam
+2046,807,Pedro Bacelar,2025,5002.13,Móveis,Cadeira
+2021,250,Ana Souza,2026,8195.45,Móveis,Mesa
+2026,321,Ashish,2026,6978.75,Móveis,Mesa
+2034,179,Pedro Bacelar,2026,6414.13,Informática,Teclado
+2089,711,Ashish,2024,9382.2,Informática,Notebook
+2190,268,Ana Souza,2025,5051.32,Periféricos,Cabo HDMI
+2154,941,John,2024,6856.39,Periféricos,Headset
+2145,929,Jane,2026,2025.14,Informática,Monitor
+2021,660,Jane,2025,3547.58,Periféricos,Webcam
+2126,643,Jane,2025,2162.08,Informática,Notebook
+2189,381,Pedro Bacelar,2024,741.61,Móveis,Cadeira
+2099,620,Ashish,2024,6372.17,Móveis,Estante
+2057,207,Jane,2025,4433.98,Periféricos,Cabo HDMI
+2003,580,Pedro Bacelar,2025,318.15,Móveis,Estante
+2177,775,Marcos Silva,2023,3760.73,Informática,Monitor
+2147,847,Pedro Bacelar,2024,4178.41,Informática,Notebook
+2056,464,Ana Souza,2026,1847.81,Informática,Mouse
+2157,724,Marcos Silva,2025,9094.01,Móveis,Mesa
+2075,225,Jane,2023,8683.77,Informática,Monitor
+2061,852,Ana Souza,2023,1575.64,Periféricos,Cabo HDMI
+2053,854,Jane,2026,9170.62,Móveis,Estante
+2057,912,Jane,2023,3654.59,Móveis,Mesa
+2198,662,Jane,2026,4177.1,Móveis,Estante
+2055,665,John,2023,6223.63,Móveis,Mesa
+2013,186,Marcos Silva,2023,6733.32,Móveis,Mesa
+2197,868,John,2023,3352.23,Informática,Notebook
+2015,449,Ashish,2024,5999.02,Periféricos,Headset
+2018,668,Ashish,2026,8372.78,Informática,Teclado
+2107,546,John,2023,4904.5,Periféricos,Webcam
+2022,889,Marcos Silva,2025,9461.76,Informática,Teclado
+2041,605,Ashish,2026,5985.76,Móveis,Estante
+2058,843,Ana Souza,2025,8142.81,Móveis,Cadeira
+2134,152,Marcos Silva,2023,7238.68,Informática,Notebook
+2145,123,Jane,2024,8182.24,Móveis,Cadeira
+2049,469,John,2024,1582.59,Periféricos,Cabo HDMI
+2199,447,Marcos Silva,2024,7816.36,Móveis,Estante
+2017,849,Ana Souza,2024,9800.15,Periféricos,Headset
+2005,246,Ana Souza,2026,8535.82,Móveis,Cadeira
+2027,746,Ashish,2024,3470.69,Informática,Notebook
+2066,190,Ashish,2023,1629.63,Periféricos,Headset
+2148,647,Ana Souza,2025,9057.92,Periféricos,Cabo HDMI
+2153,447,Jane,2023,3991.08,Informática,Notebook
+2027,302,John,2025,6810.12,Periféricos,Headset
+2039,694,Pedro Bacelar,2025,4297.58,Móveis,Cadeira
+2035,975,Ashish,2024,4350.38,Periféricos,Webcam
+2083,459,Ashish,2025,2758.64,Móveis,Estante
+2173,831,Jane,2026,1748.38,Periféricos,Cabo HDMI
+2110,955,Jane,2026,1965.62,Móveis,Estante
+2077,245,Ashish,2024,6610.4,Periféricos,Cabo HDMI
+2010,685,Ashish,2025,693.94,Móveis,Cadeira
+2001,580,Marcos Silva,2023,4957.82,Informática,Monitor
+2147,717,Ashish,2025,1921.01,Móveis,Cadeira
+2130,875,Ashish,2025,1352.14,Periféricos,Headset
+2105,108,Jane,2023,9822.84,Móveis,Estante
+2086,249,Jane,2026,5248.77,Móveis,Estante
+2053,316,Jane,2024,5740.07,Informática,Notebook
+2011,233,Marcos Silva,2023,3571.02,Periféricos,Headset
+2048,187,Pedro Bacelar,2025,9777.22,Informática,Notebook
+2090,866,Ashish,2026,901.06,Informática,Monitor

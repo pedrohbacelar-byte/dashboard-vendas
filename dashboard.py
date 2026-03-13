@@ -1,60 +1,33 @@
-import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+import automacao
 
-# Título do dashboard
-st.title("Dashboard de Vendas")
+st.set_page_config(page_title="Dashboard BI", layout="wide")
+st.title("📊 Painel de Performance Comercial")
 
-# Ler planilha
-dados = pd.read_excel("dados.xlsx")
+df = automacao.carregar_dados()
 
-# Limpar coluna Value (remover $ e converter para número)
-dados["Value"] = (
-    dados["Value"]
-    .astype(str)
-    .str.replace("$", "", regex=False)
-    .str.replace(",", "", regex=False)
-    .astype(float)
-)
+# Filtros na Sidebar
+st.sidebar.header("Filtros")
+vendedores = st.sidebar.multiselect("Vendedor:", options=sorted(df['Sales_Rep_Name'].unique()))
+anos = st.sidebar.multiselect("Ano:", options=sorted(df['Year'].unique()))
+produtos = st.sidebar.multiselect("Produto:", options=sorted(df['Produto'].unique()))
 
-# =========================
-# MÉTRICAS
-# =========================
+# Lógica de Filtragem
+df_f = df.copy()
+if vendedores: df_f = df_f[df_f['Sales_Rep_Name'].isin(vendedores)]
+if anos: df_f = df_f[df_f['Year'].isin(anos)]
+if produtos: df_f = df_f[df_f['Produto'].isin(produtos)]
 
-total_vendas = dados["Value"].sum()
+aba1, aba2 = st.tabs(["📈 Visão Geral", "📋 Dados Detalhados"])
 
-st.metric("Total de vendas", f"${total_vendas:,.2f}")
+with aba1:
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Faturamento Total", f"R$ {df_f['Value'].sum():,.2f}")
+    col2.metric("Total de Vendas", len(df_f))
+    col3.metric("Produtos Únicos", len(df_f['Produto'].unique()))
+    st.divider()
+    st.subheader("Performance por Produto")
+    st.bar_chart(df_f.groupby('Produto')['Value'].sum())
 
-# =========================
-# VENDAS POR VENDEDOR
-# =========================
-
-st.subheader("Vendas por vendedor")
-
-vendas_vendedor = dados.groupby("Sales_Rep_Name")["Value"].sum()
-
-fig1, ax1 = plt.subplots()
-vendas_vendedor.plot(kind="bar", ax=ax1)
-
-st.pyplot(fig1)
-
-# =========================
-# VENDAS POR ANO
-# =========================
-
-st.subheader("Vendas por ano")
-
-vendas_ano = dados.groupby("Year")["Value"].sum()
-
-fig2, ax2 = plt.subplots()
-vendas_ano.plot(kind="line", marker="o", ax=ax2)
-
-st.pyplot(fig2)
-
-# =========================
-# TABELA DE DADOS
-# =========================
-
-st.subheader("Tabela de dados")
-
-st.dataframe(dados)
+with aba2:
+    st.dataframe(df_f)
