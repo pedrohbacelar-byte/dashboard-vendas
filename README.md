@@ -1,5 +1,7 @@
 # 📊 Sales Dashboard - Python
 
+[![CI](https://github.com/pedrohbacelar-byte/dashboard-vendas/actions/workflows/ci.yml/badge.svg)](https://github.com/pedrohbacelar-byte/dashboard-vendas/actions/workflows/ci.yml)
+
 Dashboard interativo para análise de vendas desenvolvido em Python.
 
 ## Tecnologias
