@@ -7,7 +7,6 @@ Dashboard interativo para análise de vendas desenvolvido em Python.
 - Python
 - Pandas
 - Streamlit
-- Matplotlib
 
 ## Funcionalidades
 
@@ -21,6 +20,10 @@ Dashboard interativo para análise de vendas desenvolvido em Python.
 pip install -r requirements.txt
 
 streamlit run dashboard.py
+
+## Testes
+
+pytest
 
 ## Autor
 

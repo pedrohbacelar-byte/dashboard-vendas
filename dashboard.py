@@ -4,7 +4,13 @@ import automacao
 st.set_page_config(page_title="Dashboard BI", layout="wide")
 st.title("📊 Painel de Performance Comercial")
 
-df = automacao.carregar_dados()
+
+@st.cache_data
+def carregar_dados():
+    return automacao.carregar_dados()
+
+
+df = carregar_dados()
 
 # Filtros na Sidebar
 st.sidebar.header("Filtros")
